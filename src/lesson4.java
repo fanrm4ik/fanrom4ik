@@ -19,6 +19,7 @@ public class lesson4 {
         public static double func2 (double pg){
         double pg2 = Math.sin(2*Math.toRadians(pg));
         return pg2;
+        
         }
 }
 
