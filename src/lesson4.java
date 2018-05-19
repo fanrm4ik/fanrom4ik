@@ -4,7 +4,7 @@ public class lesson4 {
         System.out.println("площадь прямоугольника" + perim(6,7)+ func1(5)+func2(60));
         System.out.println("ПЛОЩДЬ ПРЯМ1"+perim(7,8));
         System.out.println(func1(2));
-        System.out.println(triC( 3,5,50 ("гипотенуза")));
+        System.out.println(triC( 3,5,50)("гипотенуза"));
 
     }
     /* написать функцию расчета площади прямоугольника
