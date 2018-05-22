@@ -30,7 +30,7 @@ public class home1 {
         double b4 = 13;
         double c4 = 17;
         double g4 = (a4-b4*c4)/(a4+b4)%c4;
-        System.out.println (g4+"ответ 4");
+        System.out.println(g4+"ответ 4");
 
         //задача 5
 
