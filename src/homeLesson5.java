@@ -2,13 +2,13 @@ public class homeLesson5 {
     public static void main(String[] args) {
     }
         //задача №15
-        public static void CheckIn ( int a){
+        public static void CheckIn (int a){
             a = 4;
             int b = a % 2;
-            if (b == 0) {
-                System.out.println("четное");
+            if (b == 1) {
+                System.out.println ("нечетное");
             } else {
-                System.out.println("нечетное");
+                System.out.println ("четное");
             }
 
         }

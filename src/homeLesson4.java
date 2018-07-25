@@ -83,7 +83,7 @@ public class homeLesson4 {
         double KursHrn = doll/hrn;
         return KursHrn;
         }
-        
+
 }
 
 
